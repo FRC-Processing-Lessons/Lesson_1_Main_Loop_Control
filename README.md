@@ -1,5 +1,6 @@
 # Lesson 1 - Main Loop Control
 
+## Series Overview
 This is the first of a series of lessons on programming in Java for the FIRST Robotics Competition.  It is designed for novice programmers, and can act as a precursor programming sequence to learning FRC-Java.  We will introduce:
 
 1. Data abstraction
@@ -12,4 +13,6 @@ This is the first of a series of lessons on programming in Java for the FIRST Ro
 8. Instance methods
 9. Static methods
 
-This will be taught under the Processing framework for easy visualization.  
+This series will be taught using the Processing framework for easy visualization.
+
+
