@@ -20,13 +20,10 @@ This series will be taught using the Processing framework for easy visualization
 Throughout the course of this lesson, students...
 
 1. Will define the behavior for a mandatory, reserved method.
-
-   a. Should know what a procedure is.
-   b. Should know what it means to define a procedure.
-   c. Should know what a mandatory, reserved method means.
-   
+   - Should know what a procedure is.
+   - Should know what it means to define a procedure.
+   - Should know what a mandatory, reserved method means.
 2. Will use pre-defined environment procedures to:
-
-   a. Change the size of the canvas.
-   b. Enforce fullscreen rendering of the canvas.
-   c. Change the background color of the canvas.
+   - Change the size of the canvas.
+   - Enforce fullscreen rendering of the canvas.
+   - Change the background color of the canvas.
