@@ -27,3 +27,9 @@ Throughout the course of this lesson, students...
    - Change the size of the canvas.
    - Enforce fullscreen rendering of the canvas.
    - Change the background color of the canvas.
+3. Will determine how to call the fill() procedure to modify colors.
+   - Should know what it means to invoke/call a procedure.
+   - Should know what each of the 3 parameters represent.
+3. Will determine how to draw rectangles and circles.
+   - Should know what each of the parameters represent.
+   - Should know how the coordinate system is represented.
