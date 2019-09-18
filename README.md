@@ -29,7 +29,7 @@ This series will be taught using the Processing framework for easy visualization
 
 ## Lesson Overview
 
-Throughout the course of this lesson, students...
+Once the repository is cloned and the file is open in Processing, students should see 11 TODOs listed. Throughout the course of this lesson, students...
 
 1. Will define the behavior for a mandatory, reserved method.
    - Should know what a procedure is.
