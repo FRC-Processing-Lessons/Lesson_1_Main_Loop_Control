@@ -1,5 +1,17 @@
 # Lesson 1 - Main Loop Control
 
+## Setup
+
+Clone this repository:
+
+`git clone https://github.com/FRC-Processing-Lessons/Lesson_1_Main_Loop_Control.git`
+
+Navigate to your repository folder, and open the following file in Processing.
+
+`Lesson_1_Main_Loop_Control.pde`
+
+In case you can't find processing, make sure that after unarchiving the application, setup shortcuts for the executable file.
+
 ## Series Overview
 This is the first of a series of lessons on programming in Java for the FIRST Robotics Competition.  It is designed for novice programmers, and can act as a precursor programming sequence to learning FRC-Java.  We will introduce:
 
