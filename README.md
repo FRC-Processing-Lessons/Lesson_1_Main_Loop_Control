@@ -6,7 +6,7 @@ Clone this repository:
 
 `git clone https://github.com/FRC-Processing-Lessons/Lesson_1_Main_Loop_Control.git`
 
-Navigate to your repository folder, and open the following file in Processing.
+Navigate to your repository folder, and open the following file in Processing:
 
 `Lesson_1_Main_Loop_Control.pde`
 
