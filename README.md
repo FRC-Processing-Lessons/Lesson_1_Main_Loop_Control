@@ -15,6 +15,7 @@ In case you can't find processing, make sure that after unarchiving the applicat
 ## Series Overview
 This is the first of a series of lessons on programming in Java for the FIRST Robotics Competition.  It is designed for novice programmers, and can act as a precursor programming sequence to learning FRC-Java.  We will introduce:
 
+0. Introduction to programming
 1. Data abstraction
 2. Procedure definitions
 3. Procedure invocations
